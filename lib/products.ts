@@ -90,6 +90,7 @@ export const products: Product[] = [
     status: "new",
     priceRange: "50-100",
   },
+  // Email Verifier - COMMENTED OUT
   // {
   //   slug: "email-verifier",
   //   name: "Email Verifier",
