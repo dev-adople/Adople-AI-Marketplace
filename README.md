@@ -41,8 +41,8 @@ A modern, feature-rich marketplace platform built with Next.js 15, showcasing AI
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AdopleAIOrg/Adople-AI-MarketPlace.git
-   cd Adople-AI-MarketPlace
+   git clone https://github.com/Ajay2k04/AdopleAI_Marketplace.git
+   cd AdopleAI_Marketplace
    ```
 
 2. **Install dependencies**
