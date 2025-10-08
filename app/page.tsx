@@ -309,7 +309,7 @@ export default function AppSumoHomepage() {
               </CardFooter>
             </Card>
 
-            {/* Product Card 5 - Email Verifier */}
+            {/* Product Card 5 - Email Verifier - COMMENTED OUT */}
             {/* <Card className={`${themeClasses.cardBg} ${themeClasses.cardBorder}`}>
               <CardHeader className="p-0">
                 <Link href="/products/email-verifier" className="block">
