@@ -310,7 +310,7 @@ export default function AppSumoHomepage() {
             </Card>
 
             {/* Product Card 5 - Email Verifier */}
-            <Card className={`${themeClasses.cardBg} ${themeClasses.cardBorder}`}>
+            {/* <Card className={`${themeClasses.cardBg} ${themeClasses.cardBorder}`}>
               <CardHeader className="p-0">
                 <Link href="/products/email-verifier" className="block">
                   <img
@@ -349,7 +349,7 @@ export default function AppSumoHomepage() {
                   </Link>
                 </div>
               </CardFooter>
-            </Card>
+            </Card> */}
 
             {/* Product Card 6 - AI Agents */}
             <Card className={`${themeClasses.cardBg} ${themeClasses.cardBorder}`}>
